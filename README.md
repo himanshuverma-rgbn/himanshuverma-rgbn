@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IU/giphy.gif" width="28px" alt="Hi"> Hey, I'm Simon Lecoq
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815IU/giphy.gif" width="28px" alt="Hi"> Hey, I'm Himanshu Verma
 
 <div align="center">
 
