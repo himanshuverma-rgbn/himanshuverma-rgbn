@@ -103,19 +103,6 @@ PowerShell    ░░░░░░░░░░░░░░░░░░░░░░
 
 ---
 
-## 🧠 Current State
-
-| Anime | Mode |
-|------|------|
-| 🪽 Attack on Titan | Survival Mode |
-| ⚔️ Bleach | Soul Reaper Mode |
-| ☠️ Death Note | Analysis Mode |
-| 🧩 Monster | Mind Game Mode |
-| 🎭 Perfect Blue | Reality Distortion |
-| 🧠 Classroom of the Elite | Strategy Mode |
-
----
-
 ## 💡 What I'm Into
 
 ```
