@@ -13,38 +13,7 @@
 
 </div>
 
----
 
-## 🎯 Quick Overview
-
-<table align="center">
-<tr>
-<td>
-  
-### 📊 Profile Stats
-- **Member Since:** 4 years ago
-- **Followers:** 371
-- **Following:** 31
-- **Public Repos:** 19
-- **Total Stars:** 147+
-- **Contributions:** 3,847+
-
-</td>
-<td>
-
-### ⚡ Performance Scores
-- **Performance:** 97/100
-- **Accessibility:** 100/100
-- **Best Practices:** 100/100
-- **SEO:** 100/100
-- **Current Streak:** 2 days
-- **Avg Commits/Day:** 3.82
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🚀 Technology Stack
 
