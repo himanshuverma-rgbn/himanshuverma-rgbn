@@ -5,7 +5,7 @@
 ### 💻 Full-Stack Developer | 🚀 Open Source Enthusiast | 🎯 Tech Innovator
 
 ```
-"Building elegant solutions, one commit at a time"
+Calm mind. Clean code. No unnecessary moves
 ```
 
 </div>
