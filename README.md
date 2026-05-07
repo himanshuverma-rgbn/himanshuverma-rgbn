@@ -151,28 +151,7 @@ PowerShell    ░░░░░░░░░░░░░░░░░░░░░░
 
 ---
 
-## 📊 This Year's Activity
 
-```
-Commits:        ███████░░░░░░░░░░░░ 847
-Pull Requests:  ███░░░░░░░░░░░░░░░░ 156
-Code Reviews:   ██░░░░░░░░░░░░░░░░░ 89
-Issues Closed:  ████░░░░░░░░░░░░░░░░ 234
-Contributions:  █████████████░░░░░░░ 1,247
-```
-
----
-
-## 🎯 My Goals
-
-- [x] Reach 500 GitHub stars
-- [x] Publish 10+ npm packages
-- [ ] Contribute to major open-source projects
-- [ ] Build a community of developers
-- [ ] Create comprehensive documentation
-- [ ] Master system design patterns
-
----
 
 ## 📚 Recent Blog Posts
 
