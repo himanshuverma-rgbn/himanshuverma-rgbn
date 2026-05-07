@@ -8,9 +8,6 @@
 "Building elegant solutions, one commit at a time"
 ```
 
-[![GitHub followers](https://img.shields.io/github/followers/lowlighter?style=flat-square&logo=github&logoColor=white&label=Followers&color=0891b2)](https://github.com/lowlighter)
-[![Twitter Follow](https://img.shields.io/twitter/follow/simonlecoq?style=flat-square&logo=twitter&logoColor=white&label=Follow&color=1DA1F2)](https://twitter.com/simonlecoq)
-
 </div>
 
 
