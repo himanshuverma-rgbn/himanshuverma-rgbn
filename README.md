@@ -103,12 +103,16 @@ PowerShell    ░░░░░░░░░░░░░░░░░░░░░░
 
 ---
 
-## 🎵 Currently Listening To
+## 🧠 Current State
 
-| Song | Artist | Mode |
-|------|--------|------|
-| 🎧 Bipolar Nightmare | Keigo Hoshi | Focus Mode |
-| 🔥 Mutter | Rammstein | Workout Mode |
+| Anime | Mode |
+|------|------|
+| 🪽 Attack on Titan | Survival Mode |
+| ⚔️ Bleach | Soul Reaper Mode |
+| ☠️ Death Note | Analysis Mode |
+| 🧩 Monster | Mind Game Mode |
+| 🎭 Perfect Blue | Reality Distortion |
+| 🧠 Classroom of the Elite | Strategy Mode |
 
 ---
 
